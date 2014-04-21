@@ -22,6 +22,7 @@ gem 'turbolinks'
 gem 'jbuilder', '~> 1.2'
 gem 'devise', '~> 3.2.4'
 gem 'paperclip', '~> 4.0'
+gem 'aws-sdk', '~> 1.38.0'
 
 group :doc do
   gem 'sdoc', require: false
